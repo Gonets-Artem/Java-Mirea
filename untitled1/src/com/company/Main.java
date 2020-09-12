@@ -5,18 +5,8 @@ import java.util.Scanner;
 import java.math.*;
 
 public class Main {
-
-	public static int factorial(int N)
-	{
-		int res = 1;
-		for (int i = 1; i <= N; i++) {
-			res *= i;
-		}
-		return res;
-	}
-
 	public static void main(String[] args) {
-
+		
 		int[] a = new int[]{4, 6, 2, 8, 12, 43, 6, 3, 7, 4};
 		int sum = 0;
 
@@ -56,7 +46,6 @@ public class Main {
 			System.out.printf("%.3f", (double) 1 / i);
 			System.out.print(" ");
 		}
-		System.out.println();
 
 
 		// пункт 6 Math
@@ -105,6 +94,14 @@ public class Main {
 		System.out.println();
 		System.out.print(factorial((int)(Math.random()*20)+1));
 
+	}
+	
+	public static int factorial(int N) {
+		int res = 1;
+		for (int i = 1; i <= N; i++) {
+			res *= i;
+		}
+		return res;
 	}
 }
 
