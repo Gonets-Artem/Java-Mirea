@@ -67,7 +67,6 @@ public class Main {
 		for (i = 0; i < size; i++) {
 			System.out.print(mat[i] + " ");
 		}
-		System.out.println();
 
 		// пункт 6 Random
 		Random r = new Random();
@@ -104,4 +103,3 @@ public class Main {
 		return res;
 	}
 }
-
