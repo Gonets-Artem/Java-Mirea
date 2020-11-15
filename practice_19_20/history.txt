@@ -1,0 +1,10 @@
+15/11/2020 10:06:43 | Server: new user - Tema
+15/11/2020 10:06:47 | Server: new user - Artem
+15/11/2020 10:06:51 | Tema: Hello!)
+15/11/2020 10:06:59 | Artem: Hi)
+15/11/2020 10:07:04 | Artem: How are you?
+15/11/2020 10:07:18 | Tema: I am fine!
+15/11/2020 10:07:22 | Tema: How are you?
+15/11/2020 10:07:30 | Artem: Could be better
+15/11/2020 10:07:35 | Artem: See you later
+15/11/2020 10:07:40 | Tema: Bye-bye
