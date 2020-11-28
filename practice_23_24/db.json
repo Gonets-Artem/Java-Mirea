@@ -1,0 +1,52 @@
+[
+{
+  "id": 1,
+  "taskDescription": "First Task",
+  "expression": "4 + 8"
+},
+{
+  "id": 2,
+  "taskDescription": "Second Task",
+  "expression": "34 / 4"
+},
+{
+  "id": 3,
+  "taskDescription": "Task 3",
+  "expression": "34 - -4"
+},
+{
+  "id": 4,
+  "taskDescription": "Task 4",
+  "expression": "-5*-4"
+},
+{
+  "id": 5,
+  "taskDescription": "test1",
+  "expression": "100+ 33"
+},
+{
+  "id": 6,
+  "taskDescription": "test2",
+  "expression": "100*34"
+},
+{
+  "id": 7,
+  "taskDescription": "skr skr",
+  "expression": "134/23"
+},
+{
+  "id": 8,
+  "taskDescription": "bruh",
+  "expression": "123*123"
+},
+{
+  "id": 9,
+  "taskDescription": "bla bla",
+  "expression": "33 / 23"
+},
+{
+  "id": 10,
+  "taskDescription": "Тест 3",
+  "expression": "-55 / -33"
+}
+]
